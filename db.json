@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "text": "Change current tarif (probably in bug)",
+      "day": "",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Recount? ",
+      "day": "",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "watch the full course about react 2021",
+      "day": "",
+      "reminder": false,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
