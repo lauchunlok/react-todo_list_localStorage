@@ -11,7 +11,7 @@ const Header = ({ onAdd, showAdd }) => {
   return (
     <header className="header">
       <h1>Task Tracker</h1>
-      {location.pathname === "/" && (
+      {location.pathname === "/react-todo_list_localStorage" && (
         <Button
           color={showAdd ? "red" : "green"}
           text={showAdd ? "Close" : "Add"}

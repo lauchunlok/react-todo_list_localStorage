@@ -77,7 +77,7 @@ function App() {
         />
         <Routes>
           <Route
-            path="/"
+            path="/react-todo_list_localStorage"
             element={
               <>
                 {showAddTask && <AddTask onAdd={addTask} />}
